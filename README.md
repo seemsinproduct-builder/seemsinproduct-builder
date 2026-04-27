@@ -25,6 +25,6 @@ conversion uplift through data-driven product and UX optimization
 - Reduced manual effort and improved operational efficiency by up to 40% by building AI agents and GenAI
 powered workflows 
 - Guest lectures on digital news consumption trends & user behaviour at Christ University and IMI Delhi (2025) 
-- AI training sessions on prototyping and vibe coding at KRM University, enabling students to build AI products 
+- AI training sessions on prototyping and vibe coding at KRM University, enabling students to build AI products (2026)
 - Mentor aspiring product managers within product communities to help them transition into product 
-management roles
+management roles (2026)
