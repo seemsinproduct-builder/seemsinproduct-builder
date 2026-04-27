@@ -11,7 +11,7 @@ Personal Projects
 - [LinkedIn Content App](https://gen-z-writer.lovable.app/) - Designed and developed a LinkedIn content generator app that simplifies content 
 creation by generating structured post ideas based on user inputs like experience level and topic.
 - [Job Search Agent](https://job-hunt-agent-seemsinproduct.replit.app/) - Built an AI-powered job search agent using Apify to scrape and aggregate relevant roles from LinkedIn for streamlined discovery.
--  [AI Image Classification Tool] (https://www.linkedin.com/posts/seemaverma6_productmanagement-ai-huggingface-activity-7391347806067703808-GrwD): Developed a Generative AI-powered image classification solution using NLP language technologies, reducing manual review effort by 90%.
+-  [AI Image Classification Tool](https://www.linkedin.com/posts/seemaverma6_productmanagement-ai-huggingface-activity-7391347806067703808-GrwD): Developed a Generative AI-powered image classification solution using NLP language technologies, reducing manual review effort by 90%.
 
 
 
