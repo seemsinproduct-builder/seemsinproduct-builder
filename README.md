@@ -6,8 +6,18 @@ Most of my work sits at the intersection of product strategy, growth, and AI—f
 
 I’m especially interested in how AI can improve product efficiency and decision-making, and I actively experiment with building AI-driven tools to make products smarter, faster, and more impactful.
 
+Personal Projects 
+- 
+- LinkedIn Content App - Designed and developed a LinkedIn content generator app that simplifies content 
+creation by generating structured post ideas based on user inputs like experience level and topic
+- Job Search Agent -
+-  AI Tool - Image Classification & Automation Platform: Developed a Generative AI-powered image 
+classification solution using NLP language technologies, reducing manual review effort by 90%
 
-About Me
+
+
+About Me 
+- 
 - Built and scaled a modular subscription platform to ₹10+ Cr ARR, enabling end-to-end lifecycle management and 
 monetization 
 - Drove end-to-end funnel growth including 30% traffic increase, 40% onboarding improvement, and 15% QoQ 
