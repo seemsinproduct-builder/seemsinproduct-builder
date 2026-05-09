@@ -1,4 +1,4 @@
-## Hi I’m Seema 👋[Portfolio Website] (https://preview--seema-verma-product-suite.lovable.app/)
+## Hi I’m Seema 👋
 
 I’m a Product Leader with 17+ years of experience building and scaling data-driven, growth-focused, and AI-enabled products. I focus on turning complex capabilities into practical, user-centric products that drive real business impact.
 
@@ -7,7 +7,7 @@ Most of my work sits at the intersection of product strategy, growth, and AI—f
 I’m especially interested in how AI can improve product efficiency and decision-making, and I actively experiment with building AI-driven tools to make products smarter, faster, and more impactful.
 
 Personal Projects 
-- 
+- [Portfolio Website](https://preview--seema-verma-product-suite.lovable.app/)
 - [LinkedIn Content App](https://gen-z-writer.lovable.app/) - Designed and developed a LinkedIn content generator app that simplifies content 
 creation by generating structured post ideas based on user inputs like experience level and topic.
 - [Job Search Agent](https://job-hunt-agent-seemsinproduct.replit.app/) - Built an AI-powered job search agent using Apify to scrape and aggregate relevant roles from LinkedIn for streamlined discovery.
